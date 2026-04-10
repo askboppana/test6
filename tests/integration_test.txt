@@ -1,0 +1,4 @@
+Tests: test6 INT
+TC-001: PASS
+TC-002: PASS
+Coverage: 85%
